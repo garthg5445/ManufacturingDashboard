@@ -37,4 +37,8 @@ Download the repository.
 
 Unzip the manufacturing-dashboard.zip file.
 
-Inside, you will find all the source code files for the front end, back end, and database setup.
+Inside, you will find all the source code files for the front end, back end, and database setup. 
+
+Note: 
+> To keep the ZIP file small, the `node_modules` folder has been excluded. 
+> After unzipping, run `npm install` in the frontend directory to install the required packages.
