@@ -1,7 +1,7 @@
 Manufacturing Operations Dashboard
 
 
-This is a web application built to help manage a machine shop I named Whistler Precision Manufacturing. It connects a user-friendly interface to a database so shop managers can track machines, live jobs, and inventory in real time. The Database is MySQL and is run on MAMP servers.
+This is a web application built to help manage a machine shop that I named Whistler Precision Manufacturing. It connects a user-friendly interface to a database so shop managers can track machines, live jobs, and inventory in real time. The Database is MySQL and is run on MAMP servers.
 
 1. Machines Page
 Shows every machine in the shop, what job it is currently running, and its current status. You can also add new machines here.
